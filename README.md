@@ -1,2 +1,2 @@
 # hello-world
-my hello-world project
+This is my obligatory hello world project
